@@ -16,7 +16,7 @@ export default function HomePage({ completed }) {
       <div className="animate-slide-up" style={{ animationFillMode: 'both' }}>
         <p className="text-xs font-display font-bold uppercase tracking-widest text-gray-400 dark:text-gray-500 mb-1">LIVE STATISTICS</p>
         <h1 className="font-display font-extrabold text-2xl text-gray-900 dark:text-white">
-          Next Level Pro Course
+          Next Level 2 Batch 6 Course
         </h1>
       </div>
 
